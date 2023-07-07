@@ -1,6 +1,6 @@
 /target/
-/myth_notes/.obsidian/
-/myth_notes/generated/
+/myth_vault/.obsidian/
+/myth_vault/generated/
 .metadata
 bin/
 tmp/
